@@ -1,1 +1,101 @@
+{
+    "appVendor": "Altab_Srl",
+    "appID": "altab-fse",
+    "appVersion": "1.0",
+    "results": [
+        {
+            "id": 63,
+            "ts": "2026-05-27T09:00:00Z",
+            "traceId": "7b217b31755ece3a85ade32df40452f2",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.090.4.4.9ba2292a90843ed86e1df1fdc630c1e2a0e3d91e3e36d2af71c54fb68b5d41f4.ec5bc7bf60^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "files": [
+                "LDO_1.pdf"
+            ]
+        },
+        {
+            "id": 64,
+            "ts": "2026-05-27T09:05:00Z",
+            "traceId": "a19a5c16648267c2624beb6901fae9f0",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.090.4.4.3a81e78a02621ddc228666ef659537b8bd61e164d619dfcaa0cea30563eca562.ac2642e70f^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "files": [
+                "LDO_2.pdf"
+            ]
+        },
+        {
+            "id": 66,
+            "ts": "2026-05-27T09:10:00Z",
+            "traceId": "a4ad3246b7c87bf018f99086aae59cba",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.090.4.4.3ff66fd030794e282b00218a6f44ec29adb320189dfe81c3efe6b4bc5ad731c1.1100eb679f^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "files": [
+                "LDO_3.pdf"
+            ]
+        },
+        {
+            "id": 67,
+            "ts": "2026-05-27T09:15:00Z",
+            "traceId": "d430125f096b954164a08961193a7604",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.090.4.4.cced14148241844395d3b18be2de359e05d5b09543138a3d6244bcd858c719b9.47c95af3e2^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "files": [
+                "LDO_4.pdf"
+            ]
+        },
+        {
+            "id": 448,
+            "ts": "2026-05-27T09:22:00Z",
+            "traceId": "79f8f852b6356dc3c9495383d4547e94",
+            "workflowInstanceId": "",
+            "files": [
+                "LDO_5.pdf"
+            ]
+        },
+        {
+            "id": 450,
+            "ts": "2026-05-27T09:28:00Z",
+            "traceId": "70e797c9c84a5e03e84d1d5a300ee91e",
+            "workflowInstanceId": "",
+            "files": [
+                "LDO_6.pdf"
+            ]
+        },
+        {
+            "id": 452,
+            "ts": "2026-05-27T09:34:00Z",
+            "traceId": "5b2d1817ed2502b0f4800f008e1fe17d",
+            "workflowInstanceId": "",
+            "files": [
+                "LDO_7.pdf"
+            ]
+        },
+        {
+            "id": 454,
+            "ts": "2026-05-27T09:40:00Z",
+            "traceId": "61abea22b8c9898c2441ac104966d9de",
+            "workflowInstanceId": "",
+            "files": [
+                "LDO_8.pdf"
+            ]
+        },
+        {
+            "id": 456,
+            "ts": "2026-05-27T09:47:00Z",
+            "traceId": "f0ed7024548661647273b747e38d6316",
+            "workflowInstanceId": "",
+            "files": []
+        },
+        {
+            "id": 457,
+            "ts": "2026-05-27T09:53:00Z",
+            "traceId": "62dcfac29f55138b758f849b6b562dab",
+            "workflowInstanceId": "",
+            "files": []
+        },
+        {
+            "id": 458,
+            "ts": "2026-05-27T09:59:00Z",
+            "traceId": "35024a2d8bec11ba88fe6e6bc58691b3",
+            "workflowInstanceId": "",
+            "files": []
+        }
+    ]
+}
 
