@@ -6,7 +6,7 @@
   <id root="2.16.840.1.113883.2.9.2.120.4.4" extension="LDO-2026-001"/>
   <code code="18842-5" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="Discharge summary"/>
   <title>Lettera di Dimissione Ospedaliera</title>
-  <effectiveTime value="20260527094529+0100"/>
+  <effectiveTime value="20260625135143+0100"/>
   <confidentialityCode code="N" codeSystem="2.16.840.1.113883.5.25"/>
   <languageCode code="it-IT"/>
   <recordTarget>
@@ -29,7 +29,7 @@
     </patientRole>
   </recordTarget>
   <author>
-    <time value="20260527094529+0100"/>
+    <time value="20260625135143+0100"/>
     <assignedAuthor>
       <id root="2.16.840.1.113883.2.9.4.3.2" extension="BNCLGU70A01H501Y"/>
       <assignedPerson>
@@ -39,12 +39,12 @@
         </name>
       </assignedPerson>
       <representedOrganization>
-        <name>Cooperativa Alice</name>
+        <name>Alice Cooperativa Sociale</name>
       </representedOrganization>
     </assignedAuthor>
   </author>
   <author>
-    <time value="20260527094529+0100"/>
+    <time value="20260625135143+0100"/>
     <assignedAuthor>
       <id nullFlavor="NI"/>
       <assignedAuthoringDevice>
@@ -55,13 +55,13 @@
   <custodian>
     <assignedCustodian>
       <representedCustodianOrganization>
-        <id root="2.16.840.1.113883.2.9.4.1.3" extension="01234567890"/>
-        <name>Cooperativa Alice</name>
+        <id root="2.16.840.1.113883.2.9.4.1.3" extension="00266800978"/>
+        <name>Alice Cooperativa Sociale</name>
       </representedCustodianOrganization>
     </assignedCustodian>
   </custodian>
   <legalAuthenticator>
-    <time value="20260527094529+0100"/>
+    <time value="20260625135143+0100"/>
     <signatureCode code="X"/>
     <assignedEntity>
       <id root="2.16.840.1.113883.2.9.4.3.2" extension="BNCLGU70A01H501Y"/>
